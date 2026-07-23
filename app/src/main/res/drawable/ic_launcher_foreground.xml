@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Heart shape centered in the 72dp safe zone (18dp inset from each edge) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M54,72
+            C54,72 30,56 30,42
+            C30,34 36,28 43,28
+            C47,28 51,30 54,34
+            C57,30 61,28 65,28
+            C72,28 78,34 78,42
+            C78,56 54,72 54,72 Z"/>
+
+    <!-- Teal accent dot -->
+    <path
+        android:fillColor="#00BFA5"
+        android:pathData="M68,62 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0"/>
+
+    <!-- Small white leaf accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.6"
+        android:pathData="M40,65 Q36,58 42,55 Q46,62 40,65 Z"/>
+</vector>

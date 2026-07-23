@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Digital Wellness Coach</string>
+    <string name="onboarding_welcome">Welcome to Digital Wellness Coach</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="analytics_title">Analytics</string>
+    <string name="goals_title">Goals</string>
+    <string name="focus_title">Focus</string>
+    <string name="reports_title">Reports</string>
+    <string name="profile_title">Profile</string>
+</resources>
